@@ -147,6 +147,7 @@ const calculate = () => {
     0
   );
   gwa.value = total.toFixed(2);
+  message.value = "";
 };
 const clearAll = () => {
   prelims.value = "";
